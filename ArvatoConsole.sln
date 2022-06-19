@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArvatoConsole", "ArvatoConsole\ArvatoConsole.csproj", "{37682DB2-811E-4AC8-8E50-FCA3CCAEA987}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37682DB2-811E-4AC8-8E50-FCA3CCAEA987}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37682DB2-811E-4AC8-8E50-FCA3CCAEA987}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37682DB2-811E-4AC8-8E50-FCA3CCAEA987}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37682DB2-811E-4AC8-8E50-FCA3CCAEA987}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42B72FC8-C13B-46FB-8232-5058C5BC1F37}
+	EndGlobalSection
+EndGlobal
